@@ -6,8 +6,8 @@ import {
   useCallback,
 } from "react";
 
-const BASE_URL = "https://worldwise-data-aaieh9f3w-0parus0.vercel.app";
-// const BASE_URL = "http://localhost:9000";
+const BASE_URL = "https://crazy-cyan-visor.cyclic.cloud/api";
+// const BASE_URL = "http://localhost:5000/api";
 
 const CitiesContext = createContext();
 
